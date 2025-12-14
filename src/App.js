@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        <h1>Hello DAG! React TimE!</h1>
+        <h1>Daniel Wallace Nachreiner</h1>
     </div>
   );
 }
